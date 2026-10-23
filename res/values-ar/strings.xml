@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">اختيار متصفح يدعم هذا التطبيق:</string>
+    <string name="choose_host_browser_dialog_quit">إغلاق</string>
+    <string name="choose_host_browser_dialog_title">يتطلب %1$s متصفح الويب</string>
+    <string name="host_browser_item_not_supporting_webapks">‏%1$s\nغير مدعوم</string>
+    <string name="install_host_browser_dialog_install_button">تثبيت</string>
+    <string name="install_host_browser_dialog_title">يتطلب %1$s التطبيق التالي:</string>
+    <string name="no_support_for_launch_settings">لفتح إعدادات الموقع الإلكتروني، يُرجى تحديث متصفِّح %1$s أو إعادة تثبيته.</string>
+    <string name="notification_channel_name">عام</string>
+    <string name="site_settings_long_label">إعدادات الموقع الإلكتروني</string>
+    <string name="site_settings_short_label">إعدادات الموقع الإلكتروني</string>
+</resources>

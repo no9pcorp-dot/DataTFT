@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Бул колдонмону колдоого алган серепчини тандаңыз:</string>
+    <string name="choose_host_browser_dialog_quit">ЖАБУУ</string>
+    <string name="choose_host_browser_dialog_title">%1$s колдонмосуна веб браузер талап кылынат</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nКолдоого алынбайт</string>
+    <string name="install_host_browser_dialog_install_button">ОРНОТУУ</string>
+    <string name="install_host_browser_dialog_title">%1$s колдонмосуна төмөнкү колдонмо талап кылынат:</string>
+    <string name="no_support_for_launch_settings">Сайттын параметрлерин ачуу үчүн %1$s серепчисин жаңыртуу же кайра орнотуу керек</string>
+    <string name="notification_channel_name">Жалпы</string>
+    <string name="site_settings_long_label">Сайт параметрлери</string>
+    <string name="site_settings_short_label">Сайт параметрлери</string>
+</resources>

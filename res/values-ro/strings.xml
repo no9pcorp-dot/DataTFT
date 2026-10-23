@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Alege un browser care acceptă această aplicație:</string>
+    <string name="choose_host_browser_dialog_quit">ÎNCHIDE</string>
+    <string name="choose_host_browser_dialog_title">%1$s necesită un browser web</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nIncompatibil</string>
+    <string name="install_host_browser_dialog_install_button">INSTALEAZĂ</string>
+    <string name="install_host_browser_dialog_title">%1$s necesită următoarea aplicație.</string>
+    <string name="no_support_for_launch_settings">Pentru a deschide setările site-ului, actualizează sau reinstalează %1$s</string>
+    <string name="site_settings_long_label">Setări pentru site-uri</string>
+    <string name="site_settings_short_label">Setări pentru site-uri</string>
+</resources>

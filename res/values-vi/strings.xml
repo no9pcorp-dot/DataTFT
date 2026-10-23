@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Chọn một trình duyệt hỗ trợ ứng dụng này:</string>
+    <string name="choose_host_browser_dialog_quit">ĐÓNG</string>
+    <string name="choose_host_browser_dialog_title">%1$s yêu cầu phải có trình duyệt web</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nKhông được hỗ trợ</string>
+    <string name="install_host_browser_dialog_install_button">CÀI ĐẶT</string>
+    <string name="install_host_browser_dialog_title">%1$s yêu cầu phải có ứng dụng sau:</string>
+    <string name="no_support_for_launch_settings">Để mở phần cài đặt trang web, hãy cập nhật hoặc cài đặt lại %1$s</string>
+    <string name="notification_channel_name">Chung</string>
+    <string name="site_settings_long_label">Cài đặt trang web</string>
+    <string name="site_settings_short_label">Cài đặt trang web</string>
+</resources>

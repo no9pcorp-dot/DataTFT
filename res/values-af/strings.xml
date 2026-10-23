@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Kies \'n blaaier wat hierdie app steun:</string>
+    <string name="choose_host_browser_dialog_quit">MAAK TOE</string>
+    <string name="choose_host_browser_dialog_title">%1$s vereis \'n webblaaier</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nNie gesteun nie</string>
+    <string name="install_host_browser_dialog_install_button">INSTALLEER</string>
+    <string name="install_host_browser_dialog_title">%1$s vereis die volgende app:</string>
+    <string name="no_support_for_launch_settings">Dateer %1$s op of herinstalleer dit om werfinstellings oop te maak</string>
+    <string name="notification_channel_name">Algemeen</string>
+    <string name="site_settings_long_label">Werfinstellings</string>
+    <string name="site_settings_short_label">Werfinstellings</string>
+</resources>

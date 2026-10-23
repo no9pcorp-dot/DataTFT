@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">เลือกเบราว์เซอร์ที่รองรับแอปนี้:</string>
+    <string name="choose_host_browser_dialog_quit">ปิด</string>
+    <string name="choose_host_browser_dialog_title">%1$s ต้องใช้เว็บเบราว์เซอร์</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nไม่รองรับ</string>
+    <string name="install_host_browser_dialog_install_button">ติดตั้ง</string>
+    <string name="install_host_browser_dialog_title">%1$s ต้องใช้แอปต่อไปนี้:</string>
+    <string name="no_support_for_launch_settings">หากต้องการเปิดการตั้งค่าเว็บไซต์ ให้อัปเดตหรือติดตั้ง %1$s อีกครั้ง</string>
+    <string name="notification_channel_name">ทั่วไป</string>
+    <string name="site_settings_long_label">การตั้งค่าเว็บไซต์</string>
+    <string name="site_settings_short_label">การตั้งค่าเว็บไซต์</string>
+</resources>

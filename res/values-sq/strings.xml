@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Zgjidh një shfletues që mbështet këtë aplikacion:</string>
+    <string name="choose_host_browser_dialog_quit">MBYLL</string>
+    <string name="choose_host_browser_dialog_title">%1$s kërkon një shfletues uebi</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nNuk mbështetet</string>
+    <string name="install_host_browser_dialog_install_button">INSTALO</string>
+    <string name="install_host_browser_dialog_title">%1$s kërkon aplikacionin e mëposhtëm:</string>
+    <string name="no_support_for_launch_settings">Për të hapur cilësimet, përditëso ose riinstalo %1$s</string>
+    <string name="notification_channel_name">Të përgjithshme</string>
+    <string name="site_settings_long_label">Cilësimet e sajtit</string>
+    <string name="site_settings_short_label">Cilësimet e sajtit</string>
+</resources>

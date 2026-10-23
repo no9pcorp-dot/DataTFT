@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ይህን መተግበሪያ የሚደግፍ አሳሽ ይምረጡ፦</string>
+    <string name="choose_host_browser_dialog_quit">ዝጋ</string>
+    <string name="choose_host_browser_dialog_title">%1$s ድር አሳሽ ያስፈልገዋል</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nየማይደገፍ</string>
+    <string name="install_host_browser_dialog_install_button">ጫን</string>
+    <string name="install_host_browser_dialog_title">%1$s የሚከተለው መተግበሪያ ያስፈልገዋል፦</string>
+    <string name="no_support_for_launch_settings">የጣቢያ ቅንብሮችን ለመክፈት ፣ %1$sን ያዘምኑ ወይም እንደገና ይጫኑ</string>
+    <string name="notification_channel_name">አጠቃላይ</string>
+    <string name="site_settings_long_label">የጣቢያ ቅንብሮች</string>
+    <string name="site_settings_short_label">የጣቢያ ቅንብሮች</string>
+</resources>

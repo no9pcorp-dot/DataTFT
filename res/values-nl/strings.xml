@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Kies een browser die ondersteuning biedt voor deze app:</string>
+    <string name="choose_host_browser_dialog_quit">SLUITEN</string>
+    <string name="choose_host_browser_dialog_title">Voor %1$s is een webbrowser vereist</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nNiet ondersteund</string>
+    <string name="install_host_browser_dialog_install_button">INSTALLEER</string>
+    <string name="install_host_browser_dialog_title">Voor %1$s is de volgende app vereist:</string>
+    <string name="no_support_for_launch_settings">Als je de site-instellingen wilt openen, moet je %1$s updaten of opnieuw installeren</string>
+    <string name="notification_channel_name">Algemeen</string>
+    <string name="site_settings_long_label">Site-instellingen</string>
+    <string name="site_settings_short_label">Site-instellingen</string>
+</resources>

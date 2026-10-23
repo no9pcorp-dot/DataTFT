@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">აირჩიეთ ბრაუზერი, რომლის მიერაც მხარდაჭერილია შემდეგი აპი:</string>
+    <string name="choose_host_browser_dialog_quit">დახურვა</string>
+    <string name="choose_host_browser_dialog_title">%1$s საჭიროებს ვებ-ბრაუზერს</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nმხარდაუჭერელი</string>
+    <string name="install_host_browser_dialog_install_button">ინსტალაცია</string>
+    <string name="install_host_browser_dialog_title">%1$s საჭიროებს შემდეგ აპს:</string>
+    <string name="no_support_for_launch_settings">საიტის პარამეტრების გასახსნელად განაახლეთ ან ხელახლა დააინსტალირეთ %1$s</string>
+    <string name="notification_channel_name">ზოგადი</string>
+    <string name="site_settings_long_label">საიტის პარამეტრები</string>
+    <string name="site_settings_short_label">საიტის პარამეტრები</string>
+</resources>

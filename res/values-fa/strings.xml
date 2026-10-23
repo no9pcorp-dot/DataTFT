@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">مرورگری را که این برنامه را پشتیبانی می‌کند انتخاب کنید:</string>
+    <string name="choose_host_browser_dialog_quit">بستن</string>
+    <string name="choose_host_browser_dialog_title">%1$s مرورگر وب نیاز دارد</string>
+    <string name="host_browser_item_not_supporting_webapks">‏%1$s\nپشتیبانی‌نشده</string>
+    <string name="install_host_browser_dialog_install_button">نصب</string>
+    <string name="install_host_browser_dialog_title">%1$s به برنامه‌های زیر نیاز دارد:</string>
+    <string name="no_support_for_launch_settings">برای باز کردن تنظیمات سایت، %1$s را به‌روزرسانی یا بازنصب کنید</string>
+    <string name="notification_channel_name">عمومی</string>
+    <string name="site_settings_long_label">تنظیمات سایت</string>
+    <string name="site_settings_short_label">تنظیمات سایت</string>
+</resources>

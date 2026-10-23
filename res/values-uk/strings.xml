@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Виберіть веб-переглядач, який підтримує цей додаток:</string>
+    <string name="choose_host_browser_dialog_quit">ЗАКРИТИ</string>
+    <string name="choose_host_browser_dialog_title">Щоб запустити %1$s, потрібен веб-переглядач</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nНе підтримується</string>
+    <string name="install_host_browser_dialog_title">Щоб запустити %1$s, потрібен такий додаток:</string>
+    <string name="no_support_for_launch_settings">Щоб відкрити налаштування сайту, оновіть або перестановіть %1$s</string>
+    <string name="notification_channel_name">Загальне</string>
+    <string name="site_settings_long_label">Налаштування сайтів</string>
+    <string name="site_settings_short_label">Налаштування сайтів</string>
+</resources>

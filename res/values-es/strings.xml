@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Selecciona un navegador compatible con esta aplicación:</string>
+    <string name="choose_host_browser_dialog_quit">CERRAR</string>
+    <string name="choose_host_browser_dialog_title">%1$s requiere un navegador web</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nNo compatible</string>
+    <string name="install_host_browser_dialog_install_button">INSTALAR</string>
+    <string name="install_host_browser_dialog_title">%1$s requiere la siguiente aplicación:</string>
+    <string name="no_support_for_launch_settings">Para abrir la configuración del sitio, actualiza o reinstala %1$s</string>
+    <string name="site_settings_long_label">Configuración del sitio</string>
+    <string name="site_settings_short_label">Configuración del sitio</string>
+</resources>

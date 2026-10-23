@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Valitse selain, joka tukee tätä sovellusta:</string>
+    <string name="choose_host_browser_dialog_quit">SULJE</string>
+    <string name="choose_host_browser_dialog_title">%1$s edellyttää verkkoselainta</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nEi tueta</string>
+    <string name="install_host_browser_dialog_install_button">ASENNA</string>
+    <string name="install_host_browser_dialog_title">%1$s edellyttää seuraavaa sovellusta:</string>
+    <string name="no_support_for_launch_settings">Avaa %1$s tai asenna se uudelleen, jotta voit avata sivustoasetukset</string>
+    <string name="notification_channel_name">Yleistä</string>
+    <string name="site_settings_long_label">Sivustoasetukset</string>
+    <string name="site_settings_short_label">Sivustoasetukset</string>
+</resources>

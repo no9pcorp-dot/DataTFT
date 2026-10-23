@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Valige bauser, mis toetab seda rakendust:</string>
+    <string name="choose_host_browser_dialog_quit">SULE</string>
+    <string name="choose_host_browser_dialog_title">Rakendus %1$s nõuab veebibrauserit</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nToetamata</string>
+    <string name="install_host_browser_dialog_install_button">INSTALLI</string>
+    <string name="install_host_browser_dialog_title">Rakendus %1$s nõuab järgmist rakendust:</string>
+    <string name="no_support_for_launch_settings">Saidi seadete avamiseks värskendage brauserit %1$s või installige see uuesti</string>
+    <string name="notification_channel_name">Üldine</string>
+    <string name="site_settings_long_label">Saidi seaded</string>
+    <string name="site_settings_short_label">Saidi seaded</string>
+</resources>

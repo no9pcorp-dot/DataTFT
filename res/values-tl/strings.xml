@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Pumili ng browser na sinusuportahan ang app na ito:</string>
+    <string name="choose_host_browser_dialog_quit">ISARA</string>
+    <string name="choose_host_browser_dialog_title">Kinakailangan ng %1$s ng web browser</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nHindi Sinusuportahan</string>
+    <string name="install_host_browser_dialog_title">Kinakailangan ng %1$s ang sumusunod na app:</string>
+    <string name="no_support_for_launch_settings">Para buksan ang mga setting ng site, i-update o i-install ulit ang %1$s</string>
+    <string name="notification_channel_name">Pangkalahatan</string>
+    <string name="site_settings_long_label">Mga setting ng site</string>
+    <string name="site_settings_short_label">Mga setting ng site</string>
+</resources>

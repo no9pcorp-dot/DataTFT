@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Pasirinkite šią programą palaikančią naršyklę:</string>
+    <string name="choose_host_browser_dialog_quit">UŽDARYTI</string>
+    <string name="choose_host_browser_dialog_title">„%1$s“ reikia žiniatinklio naršyklės</string>
+    <string name="host_browser_item_not_supporting_webapks">„%1$s“\nNepalaikoma</string>
+    <string name="install_host_browser_dialog_install_button">ĮDIEGTI</string>
+    <string name="install_host_browser_dialog_title">„%1$s“ reikia nurodytos programos:</string>
+    <string name="no_support_for_launch_settings">Norėdami atidaryti svetainės nustatymus, atnaujinkite arba iš naujo įdiekite „%1$s“</string>
+    <string name="notification_channel_name">Bendra</string>
+    <string name="site_settings_long_label">Svetainės nustatymai</string>
+    <string name="site_settings_short_label">Svetainės nustatymai</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Энэ аппыг дэмждэг хөтөч сонгоно уу:</string>
+    <string name="choose_host_browser_dialog_quit">ХААХ</string>
+    <string name="choose_host_browser_dialog_title">%1$s ажиллахын тулд веб хөтөч шаардлагатай</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nДэмжигдээгүй</string>
+    <string name="install_host_browser_dialog_install_button">СУУЛГАХ</string>
+    <string name="install_host_browser_dialog_title">%1$s-д дараах апп шаардлагатай:</string>
+    <string name="no_support_for_launch_settings">Сайтын тохиргоог нээхийн тулд %1$s-г шинэчилж эсвэл дахин суулгана уу</string>
+    <string name="notification_channel_name">Ерөнхий</string>
+    <string name="site_settings_long_label">Сайтын тохиргоо</string>
+    <string name="site_settings_short_label">Сайтын тохиргоо</string>
+</resources>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1"
+    android:versionName="1"
+    android:compileSdkVersion="37"
+    android:compileSdkVersionCodename="DEV"
+    package="org.chromium.webapk.a78285a08c75c412c_v2"
+    platformBuildVersionCode="37"
+    platformBuildVersionName="DEV">
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <category android:name="android.intent.category.BROWSABLE"/>
+            <data android:scheme="https"/>
+        </intent>
+        <intent>
+            <action android:name="android.support.customtabs.action.ACTION_MANAGE_TRUSTED_WEB_ACTIVITY_DATA"/>
+            <data android:scheme="https"/>
+        </intent>
+    </queries>
+    <application
+        android:label="@string/short_name"
+        android:icon="@mipmap/ic_launcher"
+        android:allowBackup="false"
+        android:supportsRtl="true">
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="org.chromium.webapk.shell_apk.h2o.H2OTransparentLauncherActivity"
+            android:exported="true"
+            android:excludeFromRecents="true"
+            android:relinquishTaskIdentity="true">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.datatft.com"
+                    android:pathPrefix=""/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.datatft.com"
+                    android:pathPrefix=""/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="org.chromium.webapk.shell_apk.ManageDataLauncherActivity"/>
+        <activity
+            android:theme="@style/SplashTheme"
+            android:name="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity"
+            android:enabled="true"
+            android:exported="true"
+            android:screenOrientation="user"
+            android:relinquishTaskIdentity="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.app.shortcuts"
+                android:resource="@xml/shortcuts"/>
+        </activity>
+        <activity
+            android:theme="@style/SplashTheme"
+            android:name="org.chromium.webapk.shell_apk.h2o.SplashActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="user"/>
+        <provider
+            android:name="org.chromium.webapk.shell_apk.h2o.SplashContentProvider"
+            android:exported="true"
+            android:authorities="org.chromium.webapk.a78285a08c75c412c_v2.SplashContentProvider"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="org.chromium.webapk.shell_apk.h2o.H2OMainActivity"
+            android:enabled="false"
+            android:exported="true"
+            android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.app.shortcuts"
+                android:resource="@xml/shortcuts"/>
+        </activity>
+        <activity
+            android:theme="@style/PermissionRequestTheme"
+            android:name="org.chromium.webapk.shell_apk.NotificationPermissionRequestActivity"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.shellApkVersion"
+            android:value="194"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.runtimeHost"
+            android:value="com.android.chrome"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.runtimeHostApplicationName"
+            android:value="Chrome"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.startUrl"
+            android:value="https://www.datatft.com/"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.scope"
+            android:value="https://www.datatft.com/"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.displayMode"
+            android:value="minimal-ui"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.orientation"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.themeColor"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.darkThemeColor"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.backgroundColor"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.darkBackgroundColor"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.defaultBackgroundColorId"
+            android:resource="@color/webapp_default_bg"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.iconId"
+            android:resource="@mipmap/app_icon"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.splashId"
+            android:resource="@drawable/splash_icon"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.isSplashIconMaskableBooleanId"
+            android:resource="@bool/is_splash_icon_maskable"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.distributor"
+            android:value="browser"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.iconUrlsAndIconMurmur2Hashes"
+            android:value="https://www.datatft.com/assets/favicon-JvcPL-z8.ico 8824141298984454131"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.webManifestUrl"
+            android:value=""/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.webManifestId"
+            android:value="https://www.datatft.com/"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.appKey"
+            android:value="https://www.datatft.com/"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.isArcChromeOs"
+            android:value="false"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.enableSiteSettingsShortcut"
+            android:value="true"/>
+        <meta-data
+            android:name="org.chromium.webapk.shell_apk.hasCustomName"
+            android:value="true"/>
+        <service
+            android:name="org.chromium.webapk.shell_apk.WebApkServiceFactory"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.WEBAPK_API"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="org.chromium.webapk.shell_apk.IdentityService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="org.webapk.IDENTITY_SERVICE_API"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>

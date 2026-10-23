@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Tria un navegador compatible amb aquesta aplicació:</string>
+    <string name="choose_host_browser_dialog_quit">TANCA</string>
+    <string name="choose_host_browser_dialog_title">%1$s requereix un navegador web</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nNo compatible</string>
+    <string name="install_host_browser_dialog_install_button">INSTAL·LA</string>
+    <string name="install_host_browser_dialog_title">%1$s requereix l\'aplicació següent:</string>
+    <string name="no_support_for_launch_settings">Per obrir la configuració del lloc web, actualitza o torna a instal·lar %1$s</string>
+    <string name="site_settings_long_label">Configuració del lloc web</string>
+    <string name="site_settings_short_label">Configuració del lloc web</string>
+</resources>

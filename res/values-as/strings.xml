@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">এই এপ্‌টো চলাব পৰা এটা ব্ৰাউজাৰ ব্যৱহাৰ কৰক:</string>
+    <string name="choose_host_browser_dialog_quit">বন্ধ কৰক</string>
+    <string name="choose_host_browser_dialog_title">%1$sক এটা ৱেব ব্ৰাউজাৰৰ আৱশ্যক</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nসমৰ্থিত নহয়</string>
+    <string name="install_host_browser_dialog_install_button">ইনষ্টল কৰক</string>
+    <string name="install_host_browser_dialog_title">%1$sক এই এপৰ আৱশ্যক:</string>
+    <string name="no_support_for_launch_settings">ছাইটৰ ছেটিং খুলিবলৈ %1$s আপডে’ট অথবা পুনৰ ইনষ্টল কৰক</string>
+    <string name="notification_channel_name">সাধাৰণ</string>
+    <string name="site_settings_long_label">ছাইটৰ ছেটিংসমূহ</string>
+    <string name="site_settings_short_label">ছাইটৰ ছেটিংসমূহ</string>
+</resources>

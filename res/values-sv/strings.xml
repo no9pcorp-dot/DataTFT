@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Välj en webbläsare som stöder den här appen:</string>
+    <string name="choose_host_browser_dialog_quit">STÄNG</string>
+    <string name="choose_host_browser_dialog_title">En webbläsare krävs för %1$s</string>
+    <string name="host_browser_item_not_supporting_webapks">%1$s\nStöds inte</string>
+    <string name="install_host_browser_dialog_install_button">INSTALLERA</string>
+    <string name="install_host_browser_dialog_title">Följande app krävs för %1$s:</string>
+    <string name="no_support_for_launch_settings">Uppdatera eller installera om %1$s om du vill öppna webbplatsinställningarna</string>
+    <string name="notification_channel_name">Allmänt</string>
+    <string name="site_settings_long_label">Webbplatsinställningar</string>
+    <string name="site_settings_short_label">Webbplatsinställningar</string>
+</resources>
